@@ -9,9 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b7a8eb7f3c63b24448efe4812f4b98ce, type: 3}
-  m_Name: Black-White
+  m_Script: {fileID: 11500000, guid: ae643f38fdbb5454baaf53dc94b53100, type: 3}
+  m_Name: ResetBoard
   m_EditorClassIdentifier: 
-  first: {r: 0.9056604, g: 0.9013884, b: 0.9013884, a: 0}
-  second: {r: 0, g: 0, b: 0, a: 0}
-  Notes: 

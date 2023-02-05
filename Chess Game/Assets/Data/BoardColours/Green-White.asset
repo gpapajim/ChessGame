@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   first: {r: 0.4666667, g: 0.5921569, b: 0.3254902, a: 1}
   second: {r: 0.9294118, g: 0.93725497, b: 0.8196079, a: 1}
+  Notes: 
