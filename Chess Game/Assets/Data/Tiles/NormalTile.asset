@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: NormalTile
   m_EditorClassIdentifier: 
   X:
-    UseConstant: 1
+    UseConstant: 0
     ConstantValue: 0
     Variable: {fileID: 11400000, guid: 11a67e55f34a0484e98f51b12a9ec1be, type: 2}
   Y:
-    UseConstant: 1
+    UseConstant: 0
     ConstantValue: 0
     Variable: {fileID: 11400000, guid: 430f677f11405f3458f8f33bd016e7b2, type: 2}

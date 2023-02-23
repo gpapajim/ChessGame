@@ -1,7 +1,7 @@
 using UnityEngine;
 
 
-[CreateAssetMenu(fileName = "BoardColours",menuName = "BoardColours")]
+[CreateAssetMenu(fileName = "BoardColours",menuName = "Board Colours")]
 public class BoardColours_SO : ScriptableObject
 {
     [Header("Colours for the board tiles")]

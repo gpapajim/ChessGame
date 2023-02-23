@@ -381,6 +381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82ee4bdc279b11944823cc8ecef1ed8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Board: {fileID: 11400000, guid: 271d6f43015c0354db222f9a8c14cd3b, type: 2}
   BoardColours: {fileID: 11400000, guid: d7253f2aff11fc842a06533b5e2f98ce, type: 2}
   Tile: {fileID: 11400000, guid: 01bea917a64140f4b858d5b93a349079, type: 2}
   debugMessage: 
@@ -411,7 +412,7 @@ GameObject:
   - component: {fileID: 1321955811}
   - component: {fileID: 1321955810}
   m_Layer: 0
-  m_Name: Static Sprite
+  m_Name: Tile_Pf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -503,7 +504,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1321955808}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.01, y: 1.14, z: 0}
+  m_LocalPosition: {x: -5.7, y: 1.38, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
